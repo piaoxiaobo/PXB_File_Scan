@@ -1,0 +1,8 @@
+{
+  "name": "PXB_File_Scan",
+  "author":"RongchengBian",
+  "version": "0.0.1",
+  "dependencies": {
+    "iconv-lite": "^0.4.23"
+  }
+}
